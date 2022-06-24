@@ -14,6 +14,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          comment_tag_name: "BLOG_FEED_UPDATE"
+          comment_tag_name: "BLOG_FEED"
           commit_message: "Updated readme with latest blog posts"
           feed_list: "https://www.codequoi.com/en/feed/"
