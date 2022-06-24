@@ -2,8 +2,8 @@
 
 I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 
-<!-- BLOG_FEED:START -->
-<!-- BLOG_FEED:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
 
