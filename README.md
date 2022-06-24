@@ -17,6 +17,20 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 
 ---
 
+### 42 School Projects
+
+| Project                                                |  Language | Grade| Blog Post                                                                                                                                                                       | Description                                                           |
+|--------------------------------------------------------|-----------|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| [libft](https://github.com/mcombeau/libft)             | C         | 125% | :x:                                                                                                                                                                             | Create a library of basic functions.                                  |
+| [GNL](https://github.com/mcombeau/get_next_line)       | C         | 125% | [:us: en](https://www.codequoi.com/en/42-get_next_line-project/) [:fr: fr](https://www.codequoi.com/42-get_next_line/)                                                          | Read a single line from a file descriptor, can be used in a loop.     |
+| [ft_printf](https://github.com/mcombeau/ft_printf)     | C         | 125% | :x:                                                                                                                                                                             | Recode the standard C library function, printf.                       |
+| [born2beroot](https://github.com/mcombeau/Born2beroot) | Shell     | 125% | [:us: en](https://www.codequoi.com/en/born2beroot-01-creating-a-debian-virtual-machine/) [:fr: fr](https://www.codequoi.com/born2beroot-01-creer-une-machine-virtuelle-debian/) | Create a virtual machine to host a Debian server.                     |
+| [pipex](https://github.com/mcombeau/pipex)             | C         | 118% | [:us: en](https://www.codequoi.com/en/pipex-reproducing-the-pipe-operator-in-c/) [:fr: fr](https://www.codequoi.com/pipex-reproduire-operateur-pipe-en-c/)                      | Recreate the shell pipe behavior in C.                                |
+| [fract'ol](https://github.com/mcombeau/fract-ol)       | C         | 125% | [:us: en](https://www.codequoi.com/en/fract-ol-generating-fractals-in-c/) [:fr: fr](https://www.codequoi.com/fract-ol-generer-des-fractales-en-c/)                              | Create a graphical program to generate fractals.                      |
+| [push_swap](https://github.com/mcombeau/push_swap)     | C         | TBD  | [:us: en](https://www.codequoi.com/en/push_swap-efficient-positional-sorting-algorithm/) [:fr: fr](https://www.codequoi.com/push_swap-algorithme-de-tri-positionel-efficace/)   | Sort a list of random integers in the least amount of moves possible. |
+
+---
+
 ### GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcombeau&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
