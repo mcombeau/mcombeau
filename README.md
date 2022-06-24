@@ -2,6 +2,10 @@
 
 I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 
+---
+
+### Latest blog articles
+
 <!-- BLOG-POST-LIST:START -->
 - [Push_Swap: an Efficient Positional Sorting Algorithm](https://www.codequoi.com/en/push_swap-efficient-positional-sorting-algorithm/)
 - [Why a Blog is a Great Developer Tool](https://www.codequoi.com/en/why-a-blog-is-a-great-developer-tool/)
@@ -9,8 +13,11 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 - [Fract’ol: generating fractals in C](https://www.codequoi.com/en/fract-ol-generating-fractals-in-c/)
 - [Binary 010: The Uses of Bit Shifting and Bitwise Operations](https://www.codequoi.com/en/binary-010-uses-of-bit-shifting-and-bitwise-operations/)
 <!-- BLOG-POST-LIST:END -->
+... read more articles on [codequoi.com](https://www.codequoi.com/en/home-english/). :fr: Mes articles sont aussi [disponibles en français](https://www.codequoi.com).
 
-## My GitHub Stats
+---
+
+### My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcombeau&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
