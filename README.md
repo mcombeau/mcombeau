@@ -3,6 +3,11 @@
 I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 
 <!-- BLOG-POST-LIST:START -->
+- [Push_Swap: an Efficient Positional Sorting Algorithm](https://www.codequoi.com/en/push_swap-efficient-positional-sorting-algorithm/)
+- [Why a Blog is a Great Developer Tool](https://www.codequoi.com/en/why-a-blog-is-a-great-developer-tool/)
+- [Local, Global and Static Variables in C](https://www.codequoi.com/en/local-global-static-variables-in-c/)
+- [Fract’ol: generating fractals in C](https://www.codequoi.com/en/fract-ol-generating-fractals-in-c/)
+- [Binary 010: The Uses of Bit Shifting and Bitwise Operations](https://www.codequoi.com/en/binary-010-uses-of-bit-shifting-and-bitwise-operations/)
 <!-- BLOG-POST-LIST:END -->
 
 ## My GitHub Stats
