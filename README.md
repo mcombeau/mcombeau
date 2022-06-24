@@ -28,6 +28,7 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 | [pipex](https://github.com/mcombeau/pipex)             | C         | 118% | [:us: en](https://www.codequoi.com/en/pipex-reproducing-the-pipe-operator-in-c/) [:fr: fr](https://www.codequoi.com/pipex-reproduire-operateur-pipe-en-c/)                      | Recreate the shell pipe behavior in C.                                |
 | [fract'ol](https://github.com/mcombeau/fract-ol)       | C         | 125% | [:us: en](https://www.codequoi.com/en/fract-ol-generating-fractals-in-c/) [:fr: fr](https://www.codequoi.com/fract-ol-generer-des-fractales-en-c/)                              | Create a graphical program to generate fractals.                      |
 | [push_swap](https://github.com/mcombeau/push_swap)     | C         | TBD  | [:us: en](https://www.codequoi.com/en/push_swap-efficient-positional-sorting-algorithm/) [:fr: fr](https://www.codequoi.com/push_swap-algorithme-de-tri-positionel-efficace/)   | Sort a list of random integers in the least amount of moves possible. |
+| [minishell](https://github.com/mcombeau/minishell)     | C         | TBD  | :x:                                                                                                                                                                             | Create a minitature shell program in C. Team project.                 |
 
 ---
 
