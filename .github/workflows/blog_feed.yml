@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
+    - cron: '0 0 * * *' # Runs every day at 00:00
   workflow_dispatch:
 jobs:
   update-readme-with-hashnode-blog:
