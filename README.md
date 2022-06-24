@@ -2,6 +2,9 @@
 
 I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 
+<!-- BLOG_FEED:START -->
+<!-- BLOG_FEED:END -->
+
 ## My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcombeau&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
