@@ -4,7 +4,7 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 
 ---
 
-### Latest blog articles
+### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Push_Swap: an Efficient Positional Sorting Algorithm](https://www.codequoi.com/en/push_swap-efficient-positional-sorting-algorithm/)
