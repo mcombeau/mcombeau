@@ -19,6 +19,16 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 
 ### 42 School Projects
 
+<a href="https://github.com/mcombeau/libft">![image](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
+<a href="https://github.com/mcombeau/get_next_line">![image](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
+<a href="https://github.com/mcombeau/ft_printf">![image](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_printfe.png)</a>
+<a href="https://github.com/mcombeau/Born2beroot">![image](https://github.com/mcombeau/mcombeau/blob/main/42_badges/born2beroote.png)</a>
+<a href="https://github.com/mcombeau/pipex">![image](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
+<a href="https://github.com/mcombeau/fract-ol">![image](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
+<a href="https://github.com/mcombeau/push_swap">![image](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swapn.png)</a>
+<a href="https://github.com/mcombeau/philosophers">![image](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersn.png)</a>
+<a href="https://github.com/mcombeau/minishell">![image](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelln.png)</a>
+
 | Project                                                  |  Language  | Grade| Blog Post                                                                                                                                                                       | Description                                                           |
 |----------------------------------------------------------|------------|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
 | [libft](https://github.com/mcombeau/libft)               | C          | 125% | :zzz:                                                                                                                                                                           | Create a library of basic functions.                                  |
