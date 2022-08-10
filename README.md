@@ -30,6 +30,8 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 | [push_swap](https://github.com/mcombeau/push_swap)       | C          | TBD  | [:us: en](https://www.codequoi.com/en/push_swap-efficient-positional-sorting-algorithm/) [:fr: fr](https://www.codequoi.com/push_swap-algorithme-de-tri-positionel-efficace/)   | Sort a list of random integers in the least amount of moves possible. |
 | [philosophers](https://github.com/mcombeau/philosophers) | C          | TBD  | [:us: en](https://www.codequoi.com/en/philosophers-01-threads-and-mutexes/) [:fr: fr](https://www.codequoi.com/philosophers-01-threads-et-mutex/)                               | Solve the dining philosophers problem with semaphores.                |
 | [minishell](https://github.com/mcombeau/minishell)       | C          | WIP  | :zzz:                                                                                                                                                                           | Create a minitature shell program. Team project.                      |
+| [Cpp Modules](https://github.com/mcombeau/Cpp_Modules)   | C++        | WIP  | :zzz:                                                                                                                                                                           | Create a series of small C++ programs.                                |
+
 
 ---
 
