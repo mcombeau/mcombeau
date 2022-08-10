@@ -18,6 +18,7 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 ---
 
 ### 42 School Projects
+<div align="center">
 
 <a href="https://github.com/mcombeau/libft">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/libfte.png)</a>
 <a href="https://github.com/mcombeau/get_next_line">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/get_next_linee.png)</a>
@@ -28,6 +29,7 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 <a href="https://github.com/mcombeau/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swapn.png)</a>
 <a href="https://github.com/mcombeau/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersn.png)</a>
 <a href="https://github.com/mcombeau/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelln.png)</a>
+
 <!-- 
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfn.png)</a> 
@@ -44,6 +46,8 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencen.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
 -->
+
+</div>
 
 | Project                                                  |  Language  | Grade| Blog Post                                                                                                                                                                       | Description                                                           |
 |----------------------------------------------------------|------------|------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
