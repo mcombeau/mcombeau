@@ -27,8 +27,9 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 <a href="https://github.com/mcombeau/fract-ol">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fract-ole.png)</a>
 <a href="https://github.com/mcombeau/pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
 <a href="https://github.com/mcombeau/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
+<a href="https://github.com/mcombeau/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
+
 <!-- 
-<a href="https://github.com/mcombeau/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosophersn.png)</a>
 <a href="https://github.com/mcombeau/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelln.png)</a>
 <a href="https://github.com/mcombeau/net_practice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticen.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
@@ -57,7 +58,7 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 | [pipex](https://github.com/mcombeau/pipex)               | C          | 118% | [:us: en](https://www.codequoi.com/en/pipex-reproducing-the-pipe-operator-in-c/) [:fr: fr](https://www.codequoi.com/pipex-reproduire-operateur-pipe-en-c/)                      | Recreate the shell pipe behavior.                                     |
 | [fract'ol](https://github.com/mcombeau/fract-ol)         | C          | 125% | [:us: en](https://www.codequoi.com/en/fract-ol-generating-fractals-in-c/) [:fr: fr](https://www.codequoi.com/fract-ol-generer-des-fractales-en-c/)                              | Create a graphical program to generate fractals.                      |
 | [push_swap](https://github.com/mcombeau/push_swap)       | C          | 100%  | [:us: en](https://www.codequoi.com/en/push_swap-efficient-positional-sorting-algorithm/) [:fr: fr](https://www.codequoi.com/push_swap-algorithme-de-tri-positionel-efficace/)   | Sort a list of random integers in the least amount of moves possible. |
-| [philosophers](https://github.com/mcombeau/philosophers) | C          | TBD  | [:us: en](https://www.codequoi.com/en/philosophers-01-threads-and-mutexes/) [:fr: fr](https://www.codequoi.com/philosophers-01-threads-et-mutex/)                               | Solve the dining philosophers problem with semaphores.                |
+| [philosophers](https://github.com/mcombeau/philosophers) | C          | 125%  | [:us: en](https://www.codequoi.com/en/philosophers-01-threads-and-mutexes/) [:fr: fr](https://www.codequoi.com/philosophers-01-threads-et-mutex/)                               | Solve the dining philosophers problem with semaphores.                |
 | [minishell](https://github.com/mcombeau/minishell)       | C          | WIP  | :zzz:                                                                                                                                                                           | Create a minitature shell program. Team project.                      |
 | [net_practice](https://github.com/mcombeau/net_practice) | N/A        | TBD  | :zzz:                                                                                                                                                                           | Solve IP addressing and network issues in a training interface.       |
 | [Cpp Modules](https://github.com/mcombeau/Cpp_Modules)   | C++        | WIP  | :zzz:                                                                                                                                                                           | Create a series of small C++ programs.                                |
