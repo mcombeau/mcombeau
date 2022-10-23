@@ -7,11 +7,11 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating and Killing Child Processes in C](https://www.codequoi.com/en/creating-and-killing-child-processes-in-c/)
 - [Why I no longer write articles about 42 school projects](https://www.codequoi.com/en/why-i-no-longer-write-articles-about-42-school-projects/)
 - [The Internet’s Layered Network Architecture](https://www.codequoi.com/en/internet-layered-network-architecture/)
 - [Coloring Terminal Text: tput and ANSI Escape Sequences](https://www.codequoi.com/en/coloring-terminal-text-tput-and-ansi-escape-sequences/)
 - [How to Prepare for the 42 Piscine](https://www.codequoi.com/en/how-to-prepare-for-the-42-piscine/)
-- [The Difference Between a Terminal, a Console and a Shell](https://www.codequoi.com/en/difference-between-terminal-console-and-shell/)
 <!-- BLOG-POST-LIST:END -->
 ... read more articles on [codequoi.com](https://www.codequoi.com/en/home-english/). :fr: Mes articles sont aussi [disponibles en français](https://www.codequoi.com).
 
