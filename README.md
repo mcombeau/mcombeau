@@ -7,11 +7,11 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Errno and Error Management in C](https://www.codequoi.com/en/errno-and-error-management-in-c/)
 - [Pipe: an Inter-Process Communication Method](https://www.codequoi.com/en/pipe-an-inter-process-communication-method/)
 - [Handling a File by its Descriptor in C](https://www.codequoi.com/en/handling-a-file-by-its-descriptor-in-c/)
 - [Creating and Killing Child Processes in C](https://www.codequoi.com/en/creating-and-killing-child-processes-in-c/)
 - [Why I no longer write articles about 42 school projects](https://www.codequoi.com/en/why-i-no-longer-write-articles-about-42-school-projects/)
-- [The Internet’s Layered Network Architecture](https://www.codequoi.com/en/internet-layered-network-architecture/)
 <!-- BLOG-POST-LIST:END -->
 ... read more articles on [codequoi.com](https://www.codequoi.com/en/home-english/). :fr: Mes articles sont aussi [disponibles en français](https://www.codequoi.com).
 
