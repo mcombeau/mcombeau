@@ -28,9 +28,9 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 <a href="https://github.com/mcombeau/pipex">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/pipexe.png)</a>
 <a href="https://github.com/mcombeau/push_swap">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/push_swape.png)</a>
 <a href="https://github.com/mcombeau/philosophers">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/philosopherse.png)</a>
+<a href="https://github.com/mcombeau/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelle.png)</a>
 
 <!-- 
-<a href="https://github.com/mcombeau/minishell">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minishelln.png)</a>
 <a href="https://github.com/mcombeau/net_practice">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/netpracticen.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfn.png)</a> 
@@ -61,7 +61,7 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 | [fract'ol](https://github.com/mcombeau/fract-ol)         | C          | 125% | Create a graphical program to generate fractals.                      |
 | [push_swap](https://github.com/mcombeau/push_swap)       | C          | 100% | Sort a list of random integers in the least amount of moves possible. |
 | [philosophers](https://github.com/mcombeau/philosophers) | C          | 125% | Solve the dining philosophers problem with semaphores.                |
-| [minishell](https://github.com/mcombeau/minishell)       | C          | WIP  | Create a minitature shell program. Team project.                      |
+| [minishell](https://github.com/mcombeau/minishell)       | C          |  99% | Create a minitature shell program. Team project.                      |
 | [net_practice](https://github.com/mcombeau/net_practice) | N/A        | TBD  | Solve IP addressing and network issues in a training interface.       |
 | [Cpp Modules](https://github.com/mcombeau/Cpp_Modules)   | C++        | WIP  | Create a series of small C++ programs.                                |
 
