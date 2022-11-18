@@ -7,11 +7,11 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IPv4 Addresses, Routing and Subnet Masks](https://www.codequoi.com/en/ipv4-addresses-routing-and-subnet-masks/)
 - [Sending and Intercepting a Signal in C](https://www.codequoi.com/en/sending-and-intercepting-a-signal-in-c/)
 - [Threads, Mutexes and Concurrent Programming in C](https://www.codequoi.com/en/threads-mutexes-and-concurrent-programming-in-c/)
 - [Errno and Error Management in C](https://www.codequoi.com/en/errno-and-error-management-in-c/)
 - [Pipe: an Inter-Process Communication Method](https://www.codequoi.com/en/pipe-an-inter-process-communication-method/)
-- [Handling a File by its Descriptor in C](https://www.codequoi.com/en/handling-a-file-by-its-descriptor-in-c/)
 <!-- BLOG-POST-LIST:END -->
 ... read more articles on [codequoi.com](https://www.codequoi.com/en/home-english/). :fr: Mes articles sont aussi [disponibles en français](https://www.codequoi.com).
 
