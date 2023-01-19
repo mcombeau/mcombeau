@@ -48,7 +48,8 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 -->
 
 </div>
->> [More information about these 42 school projects](https://github.com/mcombeau/42_cursus_projects)
+
+&#9656; [More information about these 42 school projects](https://github.com/mcombeau/42_cursus_projects)
 
 ---
 
