@@ -48,17 +48,14 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/so_longn.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/fdfn.png)</a> 
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minitalkn.png)</a>
-
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/minirtn.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_containersn.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_servicesn.png)</a>
-
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/webservn.png)</a>
 
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/ft_transcendencen.png)</a>
 <a href="">![42 Badge](https://github.com/mcombeau/mcombeau/blob/main/42_badges/common_coren.png)</a>
 -->
-
 </div>
 
 &#9656; [More information about these 42 school projects](https://github.com/mcombeau/42_cursus_projects)
