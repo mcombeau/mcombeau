@@ -16,11 +16,11 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sockets and Network Programming in C](https://www.codequoi.com/en/sockets-and-network-programming-in-c/)
-- [CTF Walkthrough: Wonderland on TryHackMe](https://www.codequoi.com/en/ctf-walkthrough-wonderland-tryhackme/)
-- [IPv4 Addresses, Routing and Subnet Masks](https://www.codequoi.com/en/ipv4-addresses-routing-and-subnet-masks/)
-- [Sending and Intercepting a Signal in C](https://www.codequoi.com/en/sending-and-intercepting-a-signal-in-c/)
-- [Threads, Mutexes and Concurrent Programming in C](https://www.codequoi.com/en/threads-mutexes-and-concurrent-programming-in-c/)
+- [Programmation réseau via socket en C](https://www.codequoi.com/programmation-reseau-via-socket-en-c/)
+- [Guide CTF : Wonderland de TryHackMe](https://www.codequoi.com/guide-ctf-wonderland-tryhackme/)
+- [Adresses IPv4, routage et masques de sous-réseau](https://www.codequoi.com/adresses-ipv4-routage-et-masques-de-sous-reseau/)
+- [Envoyer et intercepter un signal en C](https://www.codequoi.com/envoyer-et-intercepter-un-signal-en-c/)
+- [Threads, mutex et programmation concurrente en C](https://www.codequoi.com/threads-mutex-et-programmation-concurrente-en-c/)
 <!-- BLOG-POST-LIST:END -->
 ... read more articles on [codequoi.com](https://www.codequoi.com/en/home-english/). :fr: Mes articles sont aussi [disponibles en français](https://www.codequoi.com).
 
