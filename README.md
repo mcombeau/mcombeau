@@ -22,7 +22,7 @@ I'm Mia, a student at [42 Paris](https://42.fr/en/homepage/).
 - [Sending and Intercepting a Signal in C](https://www.codequoi.com/en/sending-and-intercepting-a-signal-in-c/)
 - [Threads, Mutexes and Concurrent Programming in C](https://www.codequoi.com/en/threads-mutexes-and-concurrent-programming-in-c/)
 <!-- BLOG-POST-LIST:END -->
-... read more articles on [codequoi.com](https://www.codequoi.com/en/home-english/). :fr: Mes articles sont aussi [disponibles en français](https://www.codequoi.com).
+... read more articles on [codequoi.com](https://www.codequoi.com/en). :fr: Mes articles sont aussi [disponibles en français](https://www.codequoi.com).
 
 ---
 
